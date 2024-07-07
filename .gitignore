@@ -1,3 +1,13 @@
-*
-!.gitignore
-!Stl/
+.DS_Store
+Blend/
+Box/
+Gcode/
+Images/
+Miscellaneous/
+Obj/
+Text/
+Xcf/
+
+Stl/Components/
+Stl/Holes/
+Stl/Miscellaneous/
