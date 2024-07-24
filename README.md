@@ -29,6 +29,10 @@ The drawers files are ...
 The imagined configuration:
 ![Bent right block](Presentation/All_containers_packed_as_intended.png)
 
+## Process
+
+Made using Inscape, GIMP, Blender, and the fix model tool form Creality Print.
+
 ## Future Improvements
 
 English box compatibility.. maybe.. if I get motivated..
