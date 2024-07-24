@@ -12,6 +12,7 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Corvid Conspiracy
 - Lord of the Hundreds
 - Keepers in Iron
+The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers.
 
 ## Disclaimer
 
