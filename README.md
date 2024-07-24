@@ -1,6 +1,6 @@
 # Root-Inserts
 
-Stl files of custom-made inserts and individual containers for the base and expansions factions of Root, the board game:
+Stl files of individual custom-made inserts and containers for the base and expansions factions of Root, the board game:
 - Marquise de Cat
 - Eyrie Dynasties
 - Woodland Alliance
@@ -24,6 +24,7 @@ The drawers files are ...
 
  ## Photos
 
+The imagined configuration:
 ![Bent right block](Presentation/All_containers_packed_as_intended.png)
 
 ## Future Improvements
