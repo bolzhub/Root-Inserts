@@ -27,8 +27,8 @@ The drawers files are ...
  ## Photos
 
 <div align='center'>
-  <img src='Stl/Containers/container-Marquise_de_Cat.stl' height="225px">
-  <img src='Stl/Drawers/drawer-Marquise_de_Cat.stl' height="225px">
+  <src='Stl/Containers/container-Marquise_de_Cat.stl' height="225px">
+  <src='Stl/Drawers/drawer-Marquise_de_Cat.stl' height="225px">
 </div>
 The imagined configuration:
 ![Bent right block](Presentation/All_containers_packed_as_intended.png)
