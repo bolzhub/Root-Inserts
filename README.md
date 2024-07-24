@@ -26,6 +26,8 @@ The drawers files are ...
 
  ## Photos
 
+![Container stl](Stl/Containers/container-Marquise_de_Cat.stl)
+
 The imagined configuration:
 ![Bent right block](Presentation/All_containers_packed_as_intended.png)
 
