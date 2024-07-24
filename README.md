@@ -25,3 +25,7 @@ The drawers files are ...
  ## Photos
 
 ![Bent right block](Presentation/All_containers_packed_as_intended.png)
+
+## Future Improvements
+
+English box compatibility.. maybe.. if I get motivated..
