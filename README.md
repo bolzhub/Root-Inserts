@@ -1,3 +1,27 @@
 # Root-Inserts
 
-Containers all a little broken and Vagabond container very broken, but all should print correctly
+Stl files of custom-made inserts and individual containers for the base and expansions factions of Root, the board game:
+- Marquise de Cat
+- Eyrie Dynasties
+- Woodland Alliance
+- Vagabond
+- Second Vagabond
+- Lizard Cult
+- Riverfolk Company
+- Underground Duchy
+- Corvid Conspiracy
+- Lord of the Hundreds
+- Keepers in Iron
+
+## Disclaimer
+
+Only compatible with the OFFICIAL FRENCH BASE BOX of the game or CUSTOM-MADE BOXES. The inserts - in the imagined configuration - are slightly too large to fit the more common box formats, similar to the English one.
+
+The faction names, on the sides of the containers, are WRITTEN IN FRENCH.
+
+The containers files all a little broken (the Vagabond one especially), but all should print correctly.
+The drawers files are ...
+
+ ## Photos
+
+![Bent right block](Presentation/All_containers_packed_as_intended.png)
