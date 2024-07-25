@@ -21,7 +21,7 @@ Only compatible with the OFFICIAL FRENCH BASE BOX of the game or CUSTOM-MADE BOX
 
 The faction names, on the sides of the containers, are WRITTEN IN FRENCH.
 
-Not the most compact storage, but I like the way it presents. Space lost to put pieces in a pleasant configuration. Narrowest containers (Alliance and 2nd Vagabond) are a third of the largest ones. Medium-sized containers are two thirds of the largest ones. This design makes containers' positions interchangeable.
+Not the most compact storage, but I like the way it presents. Space lost to put pieces in a pleasant configuration. Narrowest containers (Alliance and 2nd Vagabond) are a third of the largest ones. Medium-sized containers (Riverfolk and Corvid) are two thirds of the largest ones. This design makes containers' positions interchangeable.
 
 The containers files may be a little broken (the Vagabond one especially), but all should print correctly.
 The drawers files all went through a mesh repair step and look clean except for the Keepers in Iron one which is a little weird around the ears. All were printed without issues.
