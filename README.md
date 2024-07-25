@@ -24,7 +24,7 @@ The faction names, on the sides of the containers, are WRITTEN IN FRENCH.
 Not the most compact storage, but I like the way it presents. Space lost to put pieces in a pleasant configuration.
 
 The containers files may be a little broken (the Vagabond one especially), but all should print correctly.
-The drawers files are ...
+The drawers files all went through a mesh repair step and look clean except for the Keepers in Iron one which is a little weird around the ears. All were printed without issues.
 
  ## Glimpse
  
