@@ -36,7 +36,7 @@ The imagined configuration:
 
 ## Process
 
-Made using Inscape, GIMP, Blender, and the fix "Model Repair" tool form Creality Print.
+Made using Inscape, GIMP, Blender, and the "Model Repair" tool form Creality Print.
 
 ## Future Improvements
 
