@@ -42,4 +42,4 @@ Made using Inscape, GIMP, Blender, and the "Model Repair" tool form Creality Pri
 
 English box compatibility.. maybe.. if I get motivated..
 
-Waiting for frogs and bats *o*
+Waiting for frogs and bats \*o*
