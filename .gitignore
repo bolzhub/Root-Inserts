@@ -1,13 +1,14 @@
 .DS_Store
-Blend/
-Box/
-Gcode/
-Images/
-Miscellaneous/
-Obj/
-Text/
-Xcf/
 
-Stl/Components/
-Stl/Holes/
-Stl/Miscellaneous/
+Miscellaneous/
+
+V1/Blend/
+V1/Gcode/
+V1/Stl/Miscellaneous/
+V1/Xcf/
+
+V2/Blend/Containers/
+V2/Blend/Drawers
+V2/Blend/Extra
+V2/Stl/Components/
+V2/Stl/Extra/
