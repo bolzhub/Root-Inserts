@@ -44,7 +44,7 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
 
  ## Glimpse
  
-![Example of container](V2/Stl/Containers/container-Marquise_de_Cat.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Marquise_de_Cat.stl)
+![Example of container](V2/Stl/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
 ## Process
 
