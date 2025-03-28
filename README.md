@@ -4,7 +4,7 @@ Inserts for the game Root, made by Leder Games.
 
  ## Box Organisation
 
-![Bent right block](V2/Presentation/box_disposition.png)
+![Bent right block](V2/Presentation/box_disposition_with_glass_and_dots.png)
 
 Alternative:
 ![Bent right block](V2/Presentation/box_disposition_resorted_with_glass_and_dots.png)
