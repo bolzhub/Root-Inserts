@@ -8,8 +8,9 @@ Inserts for the game Root, made by Leder Games.
 
  ## Box Organisation
 
-<img src="V2/Presentation/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="500" />
-![Bent right block](V2/Presentation/box_disposition_resorted_with_glass_and_dots.png){: style="height:83px"}
+<img src="V2/Presentation/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" />
+or
+<img src="V2/Presentation/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 1" width="400" />
 
 Alternative:
 
