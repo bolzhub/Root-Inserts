@@ -4,7 +4,7 @@ Inserts for the game Root, made by Leder Games.
 
 ## Description
 
-Stl files of individual custom-made inserts and containers for the base and expansions factions of the board game Root:
+Stl files of individual custom-made inserts and containers for the base and expansions content of the board game Root:
 - Marquise de Cat
 - Eyrie Dynasties
 - Woodland Alliance
@@ -19,10 +19,17 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Twilight Council UPLOAD IN AUTUMN
 - Lilypad Diaspora UPLOAD IN AUTUMN
 - Knaves of the Deepwood UPLOAD IN AUTUMN
+as well as
+- The three decks
+- Setup pieces and Monuments
 
 The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Containers' positions are interchangeable.
 
 ![Presentation2](V2/Presentation/presentation2_no_background-unfinished.png)
+
+ ## How to craft
+
+Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
 <p align="center">
