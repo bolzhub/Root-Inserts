@@ -7,9 +7,10 @@ Inserts for the game Root, made by Leder Games.
 ![Presentation2](V2/Presentation/presentation2_no_background-unfinished.png)
 
  ## Box Organisation
-
+<p align="center">
 <img src="V2/Presentation/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" />
 <img src="V2/Presentation/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" />
+</p>p>
 
 Alternative:
 
