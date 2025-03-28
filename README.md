@@ -26,7 +26,7 @@ as well as
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
 
-The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Containers' positions are interchangeable.
+The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Sleeve compatible. Containers' positions are interchangeable.
 
 ![Presentation2](V2/Presentation/presentation2_no_background-unfinished.png)
 
