@@ -22,7 +22,9 @@ Stl files of individual custom-made inserts and containers for the base and expa
 
 as well as
 - The three decks
-- Setup pieces and Monuments
+- Setup pieces
+- Monuments 1 - UPLOAD SOON
+- Monuments 2 - UPLOAD IN AUTUMN
 
 The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Containers' positions are interchangeable.
 
@@ -42,6 +44,14 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
  
 ![Example of container](V2/Stl/Containers/container-Marquise_de_Cat.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Marquise_de_Cat.stl)
 
+## Process
+
+Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
+
+## Future Improvements
+
+One or two containers for the Setup pieces and Monuments.
+Container alternatives without plexiglass.
 
 ## LICENSE
  
