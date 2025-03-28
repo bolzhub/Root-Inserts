@@ -51,7 +51,10 @@ Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair too
 ## Future Improvements
 
 One or two containers for the Setup pieces and Monuments.
+
 Container alternatives without plexiglass.
+
+Hirelings inserts for the Hireling box, maybe, one day...
 
 ## LICENSE
  
