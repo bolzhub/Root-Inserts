@@ -32,6 +32,8 @@ The inserts are drawers which slide in the containers. All faction pieces, inclu
 
  ## How to craft
 
+Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.
+
 Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
