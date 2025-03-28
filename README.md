@@ -52,6 +52,10 @@ Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair too
 
 ## Future Improvements
 
+Box for resign clearing markers.
+
+Better Clockwork cards Holders.
+
 One or two containers for the Setup pieces and Monuments.
 
 Container alternatives without plexiglass.
