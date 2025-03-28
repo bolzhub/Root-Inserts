@@ -4,6 +4,24 @@ Inserts for the game Root, made by Leder Games.
 
 ## Description
 
+Stl files of individual custom-made inserts and containers for the base and expansions factions of the board game Root:
+- Marquise de Cat
+- Eyrie Dynasties
+- Woodland Alliance
+- Vagabond UPLOAD OF THE MEEPLE DRAWER IN AUTUMN
+- Second Vagabond
+- Lizard Cult
+- Riverfolk Company
+- Underground Duchy
+- Corvid Conspiracy
+- Lord of the Hundreds
+- Keepers in Iron
+- Twilight Council UPLOAD IN AUTUMN
+- Lilypad Diaspora UPLOAD IN AUTUMN
+- Knaves of the Deepwood UPLOAD IN AUTUMN
+
+The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Containers' positions are interchangeable.
+
 ![Presentation2](V2/Presentation/presentation2_no_background-unfinished.png)
 
  ## Box Organisation
