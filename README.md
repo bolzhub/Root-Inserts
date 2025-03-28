@@ -8,7 +8,7 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Marquise de Cat
 - Eyrie Dynasties
 - Woodland Alliance
-- Vagabond UPLOAD OF THE MEEPLE DRAWER IN AUTUMN
+- Vagabond - UPLOAD OF THE MEEPLE DRAWER IN AUTUMN
 - Second Vagabond
 - Lizard Cult
 - Riverfolk Company
@@ -16,9 +16,9 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Corvid Conspiracy
 - Lord of the Hundreds
 - Keepers in Iron
-- Twilight Council UPLOAD IN AUTUMN
-- Lilypad Diaspora UPLOAD IN AUTUMN
-- Knaves of the Deepwood UPLOAD IN AUTUMN
+- Twilight Council - UPLOAD IN AUTUMN
+- Lilypad Diaspora - UPLOAD IN AUTUMN
+- Knaves of the Deepwood - UPLOAD IN AUTUMN
 
 as well as
 - The three decks
