@@ -60,7 +60,7 @@ One or two containers for the Setup pieces and Monuments.
 
 Container alternatives without plexiglass.
 
-Vagabond box for 9 meeples and for 2 meeples.
+Vagabond box for 9 meeples and for 3 meeples.
 
 Hirelings inserts for the Hireling box, maybe, one day...
 
