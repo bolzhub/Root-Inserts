@@ -1,6 +1,6 @@
 # Inserts for the board game "Root", made by Leder Games.
 
-![Presentation1](V2/Presentation/presentation1.png)
+![Presentation1](Extra/Presentation/presentation1.png)
 
 ## Description
 
@@ -28,7 +28,7 @@ as well as
 
 The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Sleeve compatible. Containers' positions are interchangeable.
 
-![Presentation2](V2/Presentation/presentation2_no_background-unfinished.png)
+![Presentation2](Extra/Presentation/presentation2.png)
 
  ## How to craft
 
@@ -38,13 +38,13 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
 
  ## Box Organisation
 <p align="center">
- <img src="V2/Presentation/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
- <img src="V2/Presentation/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
+ <img src="Extra/Presentation/Box_Disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
+ <img src="Extra/Presentation/Box_Disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
 </p>
 
  ## Glimpse
  
-![Example of container](V2/Stl/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
+![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
 ## Process
 
@@ -66,7 +66,7 @@ Hirelings inserts for the Hireling box, maybe, one day...
 
 ## GALLERY
 
-![ReaCorvids](V2/Presentation/Corvids_real_photo.jpg)
+![ReaCorvids](Extra/Presentation/Corvids_real_photo.jpg)
 
 ## LICENSE
  
