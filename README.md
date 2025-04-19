@@ -1,4 +1,4 @@
-# Inserts for the board game "Root", made by Leder Games.
+# Inserts for the board game Root, made by Leder Games.
 
 ![Presentation1](Extra/Presentation/presentation1.png)
 
