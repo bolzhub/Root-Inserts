@@ -56,15 +56,15 @@ Examples of 3D models:
 ## Presentation
 
 <p align="center">
- <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="750" />
 </p>
 
 ## Future Improvements
