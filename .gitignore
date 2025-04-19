@@ -1,22 +1,18 @@
 .DS_Store
 
-Miscellaneous/
-Reference/
+Models/Containers_pre_fix/
+Models/Drawers_pre_fix/
+Models/Holders_pre_fix/
+Models/Extra/
 
-V1/Blend/
-V1/Gcode/
-V1/Stl/Miscellaneous/
-V1/Xcf/
+Extra/Miscellaneous/
+Extra/Making_of/Reference/
+Extra/Making_of/Models/Containers/all_faction_containers.blend
+Extra/Making_of/Models/Containers/Sides_designs/
+Extra/Making_of/Models/Drawers/drawers-Setup.blend
+Extra/Making_of/Models/Extra/
 
-V2/Presentation/Box_disposition/Sides_designs/
-V2/Presentation/By_Faction/Photo_Post_process/
-V2/Presentation/By_Faction/Scene_Setup/
-V2/Presentation/By_Faction/Transparent_Background/
-V2/Blend/Containers/all_faction_containers.blend
-V2/Blend/Drawers/drawers-Setup.blend
-V2/Blend/Extra/
-V2/Stl/Drawers_walls/
-V2/Stl/Drawers_wall_battlements/
-V2/Stl/Containers_pre_fix/
-V2/Stl/Holders_pre_fix/
-V2/Stl/Extra/
+Old_Version/Blend/
+Old_Version/Gcode/
+Old_Version/Stl/Miscellaneous/
+Old_Version/Xcf/
