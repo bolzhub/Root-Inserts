@@ -42,13 +42,25 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
  <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
 </p>
 
+## Process
+
+Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
+
  ## Glimpse
  
 ![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
-## Process
-
-Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
+<p align="center">
+ <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="1000" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="1000" />
+</p>
 
 ## Future Improvements
 
@@ -65,19 +77,6 @@ Vagabond box for 9 meeples and for 2 meeples.
 Hirelings inserts for the Hireling box, maybe, one day...
 
 ## GALLERY
-
-
-<p align="center">
- <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="1000" />
- <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="1000" />
-</p>
 
 ![ReaCorvids](Extra/Presentation/Corvids_real_photo.jpg)
 
