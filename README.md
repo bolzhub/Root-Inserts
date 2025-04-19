@@ -38,8 +38,8 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
 
  ## Box Organisation
 <p align="center">
- <img src="Extra/Presentation/Box_Disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
- <img src="Extra/Presentation/Box_Disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
+ <img src="Extra/Presentation/Box_disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
+ <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
 </p>
 
  ## Glimpse
