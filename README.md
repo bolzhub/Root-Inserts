@@ -37,6 +37,7 @@ Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.
 Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
+ 
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
  <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
@@ -47,8 +48,12 @@ Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the piece
 Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
 
  ## Glimpse
+
+Examples of 3D models:
  
 ![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
+
+## Presentation
 
 <p align="center">
  <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="1000" />
