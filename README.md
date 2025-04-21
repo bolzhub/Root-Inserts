@@ -89,6 +89,6 @@ Hirelings inserts for the Hireling box, maybe, one day...
 
 ## LICENSE
 
-This is not an official product of Leder Games.
+This is not an official product of Leder Games.  
 Root Inserts © 2025 by Romain Chaussonnier is licensed under CC BY-NC-SA 4.0 
 
