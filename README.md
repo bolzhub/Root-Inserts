@@ -34,7 +34,7 @@ The inserts are drawers which slide in the containers. All faction pieces, inclu
 
 Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.
 
-Cut pieces of 67mm x 91.75mm out of a 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
+Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
  
@@ -51,7 +51,7 @@ Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair too
 
 Examples of 3D models:
  
-![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](V2/Stl/Drawers/drawer-Lord_of_the_Hundreds.stl)
+![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
 ## Presentation
 
@@ -83,7 +83,7 @@ Hirelings inserts for the Hireling box, maybe, one day...
 
 ## GALLERY
 
-![ReaCorvids](Extra/Presentation/Corvids_real_photo.jpg)
+![RealCorvids](Extra/Presentation/Corvids_real_photo.jpg)
 
 ## LICENSE
  
