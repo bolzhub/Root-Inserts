@@ -26,17 +26,16 @@ as well as
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
 
-The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective containers.
-Compatible with official sleeves, or common unofficial sleeves of similar size.
-Horizontal or Vertical storage. In fact, all directions are possible.
+The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective containers.  
+Compatible with official sleeves, or common unofficial sleeves of similar size.  
+Horizontal or Vertical storage. In fact, all directions are possible.  
 Can be used with any version of the board game: English, French, etc. Containers' positions are interchangeable.
 
 ![Presentation2](Extra/Presentation/presentation2.png)
 
  ## How to craft
 
-Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.
-
+Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.  
 Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
