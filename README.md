@@ -26,7 +26,10 @@ as well as
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
 
-The inserts are drawers which slide in the containers. All faction pieces, including cards, fit in their respective containers. Sleeve compatible. Containers' positions are interchangeable.
+The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective containers.
+Compatible with official sleeves, or common unofficial sleeves of similar size.
+Horizontal or Vertical storage. In fact, all directions are possible.
+Can be used with any version of the board game: English, French, etc. Containers' positions are interchangeable.
 
 ![Presentation2](Extra/Presentation/presentation2.png)
 
@@ -86,6 +89,7 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ![RealCorvids](Extra/Presentation/Corvids_real_photo.jpg)
 
 ## LICENSE
- 
+
+This is not an official product of Leder Games.
 Root Inserts © 2025 by Romain Chaussonnier is licensed under CC BY-NC-SA 4.0 
 
