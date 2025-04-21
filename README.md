@@ -26,7 +26,7 @@ as well as
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
 
-The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective containers.  
+The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective boxes.  
 Compatible with official sleeves, or common unofficial sleeves of similar size.  
 Horizontal or Vertical storage. In fact, all directions are possible.  
 Can be used with any version of the board game: English, French, etc. Containers' positions are interchangeable.
