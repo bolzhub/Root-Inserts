@@ -97,16 +97,18 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ## Gallery
 
 ![Photo1](Extra/Presentation/photo1.jpg)
-![Photo1](Extra/Presentation/photo2.jpg)
-![RealCorvids](Extra/Presentation/corvids_real_photo.jpg)
+![Photo2](Extra/Presentation/photo2.jpg)
 Proof that containers do contain the faction cards:
-![RealMoles](Extra/Presentation/moles_with_cards.jpg)
+<p align="center">
+ <img src="Extra/Presentation/moles_with_cards.jpg" alt="Real Moles" width="500" />
+ <img src="Extra/Presentation/corvids_real_photo" alt="Real Corvids" width="500" />
+</p>
 
 Alternative printing with color inversion:
 
 <p align="center">
- <img src="Extra/Presentation/color_inversion_column.jpg" alt="Box disposition 1" width="450" />
- <img src="Extra/Presentation/color_inversion_line.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/color_inversion_column.jpg" alt="Boxes with color inversion in a column" width="450" />
+ <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="500" />
 </p>
 
 
