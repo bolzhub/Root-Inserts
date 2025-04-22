@@ -101,7 +101,7 @@ Hirelings inserts for the Hireling box, maybe, one day...
 Proof that containers do contain the faction cards:
 <p align="center">
  <img src="Extra/Presentation/moles_with_cards.jpg" alt="Real Moles" width="500" />
- <img src="Extra/Presentation/corvids_real_photo" alt="Real Corvids" width="500" />
+ <img src="Extra/Presentation/corvids_real_photo.jpg" alt="Real Corvids" width="500" />
 </p>
 
 Alternative printing with color inversion:
