@@ -82,8 +82,8 @@ Temporary storage solution for the French Marauder box:
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french4.jpg" alt="Box disposition 4" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french5.jpg" alt="Box disposition 5" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french6.jpg" alt="Box disposition 6" width="450" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 6" width="450" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 6" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 7" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 8" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="450" />
 </p>
 
