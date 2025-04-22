@@ -70,13 +70,13 @@ Temporary storage solution for the French Marauder box:
 - Similar to the American box, but slightly larger.
 - Need to raise the lid if all the faction and clockwork boards are in.
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french2.jpg" alt="Box disposition 2" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french3.jpg" alt="Box disposition 3" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french4.jpg" alt="Box disposition 4" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french5.jpg" alt="Box disposition 5" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french6.jpg" alt="Box disposition 6" width="500" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 6" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="750" />
 </p>
 
 Temporary storage solution for the French big box:
