@@ -108,7 +108,7 @@ Alternative printing with color inversion:
 
 <p align="center">
  <img src="Extra/Presentation/color_inversion_column.jpg" alt="Boxes with color inversion in a column" width="450" />
- <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="500" />
+ <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="550" />
 </p>
 
 
