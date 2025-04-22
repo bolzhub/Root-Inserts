@@ -89,6 +89,8 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ![Photo1](Extra/Presentation/photo2.jpg)
 ![RealCorvids](Extra/Presentation/corvids_real_photo.jpg)
 ![RealMoles](Extra/Presentation/moles_with_cards.jpg)
+Proof that containers do contain the faction cards.
+
 
 ## Acknoledgements
 
