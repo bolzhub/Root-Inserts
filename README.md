@@ -57,7 +57,11 @@ Examples of 3D models:
 Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.  
 Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
- ## Box Organisation
+ ## How to use
+
+ Link to the YouTube channel
+
+ ## How to store
 
  Storage solutions for the American box once the Homeland expansion is released: 
  - Represented dimensions correspond to the real ones
