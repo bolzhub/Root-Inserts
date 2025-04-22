@@ -62,8 +62,8 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
  Storage solutions for the American box once the Homeland expansion is released: 
  - Represented dimensions correspond to the real ones
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
+ <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" />
+ <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" />
 </p>
 
 Temporary storage solution for the French Marauder box:
@@ -72,23 +72,23 @@ Temporary storage solution for the French Marauder box:
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french2.jpg" alt="Box disposition 2" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french3.jpg" alt="Box disposition 3" width="450" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french4.jpg" alt="Box disposition 4" width="500" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french5.jpg" alt="Box disposition 5" width="500" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french6.jpg" alt="Box disposition 6" width="500" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 6" width="500" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 6" width="500" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french4.jpg" alt="Box disposition 4" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french5.jpg" alt="Box disposition 5" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french6.jpg" alt="Box disposition 6" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 6" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 6" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="450" />
 </p>
 
 Temporary storage solution for the French big box:
 - No need to raise the lid
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french1.jpg" alt="Box disposition 1" width="500" />
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french2.jpg" alt="Box disposition 2" width="500" />
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french3.jpg" alt="Box disposition 3" width="500" />
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french4.jpg" alt="Box disposition 4" width="500" />
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
- <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french1.jpg" alt="Box disposition 1" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french2.jpg" alt="Box disposition 2" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french3.jpg" alt="Box disposition 3" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french4.jpg" alt="Box disposition 4" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french5.jpg" alt="Box disposition 5" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french6.jpg" alt="Box disposition 6" width="450" />
 </p>
 
 ## Process
@@ -115,15 +115,15 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ![Photo2](Extra/Presentation/photo2.jpg)
 Proof that containers do contain the faction cards and Corvids highlighting:
 <p align="center">
- <img src="Extra/Presentation/moles_with_cards.jpg" alt="Real Moles" width="400" />
- <img src="Extra/Presentation/corvids_real_photo.jpg" alt="Real Corvids" width="600" />
+ <img src="Extra/Presentation/moles_with_cards.jpg" alt="Real Moles" width="350" />
+ <img src="Extra/Presentation/corvids_real_photo.jpg" alt="Real Corvids" width="550" />
 </p>
 
 Alternative printing with color inversion:
 
 <p align="center">
- <img src="Extra/Presentation/color_inversion_column.jpg" alt="Boxes with color inversion in a column" width="450" />
- <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="550" />
+ <img src="Extra/Presentation/color_inversion_column.jpg" alt="Boxes with color inversion in a column" width="400" />
+ <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="500" />
 </p>
 
 
