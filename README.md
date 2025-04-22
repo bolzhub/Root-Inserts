@@ -75,6 +75,7 @@ Temporary storage solution for the French big box:
  <img src="Extra/Presentation/Box_disposition/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
  <img src="Extra/Presentation/Box_disposition/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
 </p>
+The box lid is not raised.
 
 ## Process
 
