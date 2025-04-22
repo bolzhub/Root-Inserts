@@ -120,7 +120,7 @@ Hirelings inserts for the Hireling box, maybe, one day...
 
 ![Photo1](Extra/Presentation/photo1.jpg)
 ![Photo2](Extra/Presentation/photo2.jpg)
-Proof that containers do contain the faction cards and Corvids highlighting:
+Proof that containers do contain the faction cards + Corvids highlighting:
 <p align="center">
  <img src="Extra/Presentation/moles_with_cards.jpg" alt="Real Moles" width="350" />
  <img src="Extra/Presentation/corvids_real_photo.jpg" alt="Real Corvids" width="550" />
