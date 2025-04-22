@@ -101,6 +101,9 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ![RealMoles](Extra/Presentation/moles_with_cards.jpg)
 Proof that containers do contain the faction cards.
 
+ <img src="Extra/Presentation/color_inversion_line.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/color_inversion_column.jpg" alt="Box disposition 1" width="500" />
+
 
 ## Acknoledgements
 
