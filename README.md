@@ -62,18 +62,32 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
 
  Storage solutions for the American box once the Homeland expansion is released: 
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
- <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
+ <img src="Extra/Presentation/Box_disposition/American_box/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
+ <img src="Extra/Presentation/Box_disposition/American_box/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
 </p>
 
-Temporary storage solution for the French big box (no need to raise the box lid):
+Temporary storage solution for the French Marauder box:
+- Similar to the American box, but slightly larger.
+- Need to raise the lid if all the faction and clockwork boards are in.
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/temp_big_french1.jpg" alt="Box disposition 1" width="500" />
- <img src="Extra/Presentation/Box_disposition/temp_big_french2.jpg" alt="Box disposition 2" width="500" />
- <img src="Extra/Presentation/Box_disposition/temp_big_french3.jpg" alt="Box disposition 3" width="500" />
- <img src="Extra/Presentation/Box_disposition/temp_big_french4.jpg" alt="Box disposition 4" width="500" />
- <img src="Extra/Presentation/Box_disposition/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
- <img src="Extra/Presentation/Box_disposition/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french1.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french2.jpg" alt="Box disposition 2" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french3.jpg" alt="Box disposition 3" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french4.jpg" alt="Box disposition 4" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_big_french7.jpg" alt="Box disposition 6" width="500" />
+</p>
+
+Temporary storage solution for the French big box:
+- No need to raise the lid
+<p align="center">
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french1.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french2.jpg" alt="Box disposition 2" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french3.jpg" alt="Box disposition 3" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french4.jpg" alt="Box disposition 4" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
+ <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
 </p>
 
 ## Process
