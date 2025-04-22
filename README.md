@@ -61,6 +61,7 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
  ## Box Organisation
 
  Storage solutions for the American box once the Homeland expansion is released: 
+ - Represented dimensions correspond to the real ones
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
  <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
