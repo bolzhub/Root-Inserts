@@ -45,6 +45,16 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
  <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
 </p>
 
+Temporary storage solution for the French big box:
+<p align="center">
+ <img src="Extra/Presentation/Box_disposition/temp_big_french1.jpg" alt="Box disposition 1" width="500" />
+ <img src="Extra/Presentation/Box_disposition/temp_big_french2.jpg" alt="Box disposition 2" width="500" />
+ <img src="Extra/Presentation/Box_disposition/temp_big_french3.jpg" alt="Box disposition 3" width="500" />
+ <img src="Extra/Presentation/Box_disposition/temp_big_french4.jpg" alt="Box disposition 4" width="500" />
+ <img src="Extra/Presentation/Box_disposition/temp_big_french5.jpg" alt="Box disposition 5" width="500" />
+ <img src="Extra/Presentation/Box_disposition/temp_big_french6.jpg" alt="Box disposition 6" width="500" />
+</p>
+
 ## Process
 
 Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
