@@ -33,6 +33,26 @@ Can be used with any version of the board game: English, French, etc. Containers
 
 ![Presentation2](Extra/Presentation/presentation2.png)
 
+## Presentation
+
+<p align="center">
+ <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="750" />
+</p>
+
+ ## Glimpse
+
+Examples of 3D models:
+ 
+![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/Drawers/drawer-Lord_of_the_Hundreds.stl)
+
  ## How to craft
 
 Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.  
@@ -58,26 +78,6 @@ Temporary storage solution for the French big box:
 ## Process
 
 Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
-
- ## Glimpse
-
-Examples of 3D models:
- 
-![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/Drawers/drawer-Lord_of_the_Hundreds.stl)
-
-## Presentation
-
-<p align="center">
- <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="750" />
-</p>
 
 ## Future Improvements
 
