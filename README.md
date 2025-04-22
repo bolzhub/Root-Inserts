@@ -85,7 +85,14 @@ Hirelings inserts for the Hireling box, maybe, one day...
 
 ## GALLERY
 
-![RealCorvids](Extra/Presentation/Corvids_real_photo.jpg)
+![Photo1](Extra/Presentation/photo1.jpg)
+![Photo1](Extra/Presentation/photo2.jpg)
+![RealCorvids](Extra/Presentation/corvids_real_photo.jpg)
+![RealMoles](Extra/Presentation/moles_with_cards.jpg)
+
+## Acknoledgements
+
+Thanks to Paul and Suzanne for their help and support
 
 ## LICENSE
 
