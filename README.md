@@ -9,7 +9,6 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Eyrie Dynasties
 - Woodland Alliance
 - Vagabond - UPLOAD OF THE MEEPLE DRAWER IN AUTUMN
-- Second Vagabond
 - Lizard Cult
 - Riverfolk Company
 - Underground Duchy
