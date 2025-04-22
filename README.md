@@ -59,7 +59,8 @@ Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.
 Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
  ## Box Organisation
- 
+
+ Ideal storage solution once the Homeland expansion is released: 
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="400" /> or
  <img src="Extra/Presentation/Box_disposition/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="400" /> or anything you want
@@ -98,8 +99,8 @@ Hirelings inserts for the Hireling box, maybe, one day...
 ![Photo1](Extra/Presentation/photo1.jpg)
 ![Photo1](Extra/Presentation/photo2.jpg)
 ![RealCorvids](Extra/Presentation/corvids_real_photo.jpg)
+Proof that containers do contain the faction cards:
 ![RealMoles](Extra/Presentation/moles_with_cards.jpg)
-Proof that containers do contain the faction cards.
 
 Alternative printing with color inversion:
 
