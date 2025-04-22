@@ -25,25 +25,25 @@ as well as
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
 
-The inserts are drawers which slide in the containers, forming a "box". All faction pieces, including cards, fit in their respective boxes.  
+The inserts are drawers which slide in the containers. A container with its drawer form a "box". All faction pieces, including cards, fit in their respective boxes.  
 Compatible with official sleeves, or common unofficial sleeves of similar size.  
-Horizontal or Vertical storage. In fact, all directions are possible.  
-Can be used with any version of the board game: English, French, etc. Containers' positions are interchangeable.
+Horizontal or vertical storage. In fact, all directions are possible.  
+Can be used with any version of the board game: English, French, etc. Boxes' positions are interchangeable.
 
 ![Presentation2](Extra/Presentation/presentation2.png)
 
 ## Presentation
 
 <p align="center">
- <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Box disposition 1" width="750" />
- <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Marquise de Cat" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Eyrie Dynasties" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Woodland Alliance" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lizard_Cult.png" alt="Lizard Cult" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Riverfolk_Company.png" alt="Riverfolk Company" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Underground_Duchy.png" alt="Underground Duchy" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Corvid_Conspiracy.png" alt="Corvid Conspiracy" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Lord_of_the_Hundreds.png" alt="Lord of the Hundreds" width="750" />
+ <img src="Extra/Presentation/By_Faction/Presentation-Keepers_in_Iron.png" alt="Keepers in Iron" width="750" />
 </p>
 
  ## Glimpse
