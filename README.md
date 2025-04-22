@@ -83,7 +83,7 @@ Vagabond box for 9 meeples and for 2 meeples.
 
 Hirelings inserts for the Hireling box, maybe, one day...
 
-## GALLERY
+## Gallery
 
 ![Photo1](Extra/Presentation/photo1.jpg)
 ![Photo1](Extra/Presentation/photo2.jpg)
