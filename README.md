@@ -104,8 +104,8 @@ Proof that containers do contain the faction cards.
 Alternative printing with color inversion:
 
 <p align="center">
- <img src="Extra/Presentation/color_inversion_line.jpg" alt="Box disposition 1" width="450" />
  <img src="Extra/Presentation/color_inversion_column.jpg" alt="Box disposition 1" width="450" />
+ <img src="Extra/Presentation/color_inversion_line.jpg" alt="Box disposition 1" width="500" />
 </p>
 
 
