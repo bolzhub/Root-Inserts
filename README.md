@@ -71,6 +71,10 @@ Example of storage solutions for the American box once the Homeland expansion is
  - Hirelings are stored separately in the Hireling box
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-color.png" alt="Box disposition 1" width="750" />
+</p>
+
+Alternative with dark brown for all boxes:
+<p align="center">
  <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-wood_color.png" alt="Box disposition 1" width="750" />
 </p>
 
