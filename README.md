@@ -66,17 +66,15 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
 
  ## How to store
 
- Storage solutions for the American box once the Homeland expansion is released: 
+Example of storage solutions for the American box once the Homeland expansion is released: 
  - Represented dimensions correspond to the real ones
  - Hirelings are stored separately in the Hireling box
 <p align="center">
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-color.png" alt="Box disposition 1" width="450" />
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-wood_color.png" alt="Box disposition 1" width="450" />
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_with_glass_and_dots.png" alt="Box disposition 1" width="450" />
- <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition_resorted_with_glass_and_dots.png" alt="Box disposition 2" width="450" />
+ <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-color.png" alt="Box disposition 1" width="750" />
+ <img src="Extra/Presentation/Box_disposition/American_Box/box_disposition-wood_color.png" alt="Box disposition 1" width="750" />
 </p>
 
-Temporary storage solution for the French Marauder box:
+Examples of temporary storage solution for the French Marauder box:
 - Similar to the American box, but slightly larger.
 - Need to raise the lid if all the faction and clockwork boards are in.
 - Hirelings will probably be removed in future configurations.
@@ -91,7 +89,7 @@ Temporary storage solution for the French Marauder box:
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="450" />
 </p>
 
-Temporary storage solution for the French big box:
+Example of temporary storage solution for the French big box:
 - No need to raise the lid
 - 
 - Hirelings will probably be removed in future configurations.
