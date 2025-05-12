@@ -38,6 +38,7 @@ Can be used with any version of the board game: English, French, etc. Boxes' pos
 ## Presentation
 
 <p align="center">
+ <img src="Extra/Presentation/By_Faction/Presentation-Setup.png" alt="Setup" width="750" />
  <img src="Extra/Presentation/By_Faction/Presentation-Marquise_de_Cat.png" alt="Marquise de Cat" width="750" />
  <img src="Extra/Presentation/By_Faction/Presentation-Eyrie_Dynasties.png" alt="Eyrie Dynasties" width="750" />
  <img src="Extra/Presentation/By_Faction/Presentation-Woodland_Alliance.png" alt="Woodland Alliance" width="750" />
