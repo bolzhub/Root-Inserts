@@ -142,7 +142,7 @@ Alternative printing with color inversion:
 
 ## Acknoledgements
 
-Thanks to Paul and Suzanne for their help and support
+Thanks to Paul, Tanguy and Suzanne for their help and support
 
 ## LICENSE
 
