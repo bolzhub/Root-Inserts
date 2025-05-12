@@ -96,7 +96,6 @@ Examples of temporary storage solution for the French Marauder box:
 
 Example of temporary storage solution for the French big box:
 - No need to raise the lid
-- 
 - Hirelings will probably be removed in future configurations.
 <p align="center">
  <img src="Extra/Presentation/Box_disposition/Big_French_Box/temp_big_french1.jpg" alt="Box disposition 1" width="450" />
@@ -116,8 +115,6 @@ Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair too
 Box for resign clearing markers.
 
 Better Clockwork cards Holders.
-
-One or two containers for the Setup pieces and Monuments.
 
 Container alternatives without plexiglass.
 
