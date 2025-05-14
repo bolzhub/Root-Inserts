@@ -28,7 +28,7 @@ as well as
 but not
 - The Hirelings
 
-The inserts are drawers which slide in the containers. A container with its drawer form a "box". All faction pieces, including cards, fit in their respective boxes.  
+The inserts are drawers which slide in the containers. A container with its drawer form a "box". All faction components, including cards, fit in their respective boxes.  
 Compatible with official sleeves, or common unofficial sleeves of similar size.  
 Horizontal or vertical storage. In fact, all directions are possible.  
 Can be used with any version of the board game: English, French, etc. Boxes' positions are interchangeable.
