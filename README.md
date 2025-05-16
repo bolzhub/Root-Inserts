@@ -63,7 +63,7 @@ Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces 
 
  ## How to use
 
-[Link to the YouTube playlist](https://www.youtube.com/playlist?list=PLXDguQmAmobZ4uMEKIt1scxwR4mwSEzq6)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLXDguQmAmobZ4uMEKIt1scxwR4mwSEzq6)
 
  ## How to store
 
