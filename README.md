@@ -112,7 +112,7 @@ Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair too
 
 ## Future Improvements
 
-Box for resign clearing markers.
+Box for resin clearing markers.
 
 Better Clockwork cards Holders.
 
