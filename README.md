@@ -114,7 +114,7 @@ Example of temporary storage solution for the French big box:
 
 ## Process
 
-Made using Blender, Krita, Inscape, Bambu Studio, and the free online repair tool https://www.formware.co/onlinestlrepair.
+Made using Blender, Krita, Inscape, Bambu Studio, DaVinci Resolve, and the free online repair tool https://www.formware.co/onlinestlrepair.
 
 ## Future Improvements
 
