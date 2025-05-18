@@ -149,7 +149,7 @@ Alternative printing with color inversion:
 
 ## Acknoledgements
 
-Thanks to Paul, Tanguy and Suzanne for their help and support
+Thanks to Paul, Tanguy, Suzanne and my family for their help and support
 
 ## LICENSE
 
