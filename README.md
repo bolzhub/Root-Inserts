@@ -56,6 +56,12 @@ Examples of 3D models:
  
 ![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
+ ## How to download
+
+Go to https://download-directory.github.io//
+Copy and paste https://github.com/bolzhub/Root-Inserts/tree/main/Models in the website's bar and press Enter.
+Unzip the zip file in your Downloads.
+
  ## How to craft
 
 Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.  
