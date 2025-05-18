@@ -64,6 +64,7 @@ Unzip the zip file in your Downloads.
 
  ## How to craft
 
+Choose the stl files you need. Not all of them are necessary.  
 Print the drawers with a 0.4mm nozzle, and the containers with a 0.2mm nozzle.  
 Cut pieces of 67mm x 91.75mm out of 1.2mm thick acrylic sheets. Glue the pieces inside the containers.
 
