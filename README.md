@@ -58,8 +58,8 @@ Examples of 3D models:
 
  ## How to download
 
-Go to https://download-directory.github.io//
-Copy and paste https://github.com/bolzhub/Root-Inserts/tree/main/Models in the website's bar and press Enter.
+Go to https://download-directory.github.io//  
+Copy and paste https://github.com/bolzhub/Root-Inserts/tree/main/Models in the website's bar and press Enter.  
 Unzip the zip file in your Downloads.
 
  ## How to craft
