@@ -122,11 +122,11 @@ Made using Blender, Krita, Inscape, Bambu Studio, DaVinci Resolve, and the free 
 
 Box for resin clearing markers.
 
-Better Clockwork cards Holders.
-
 Container alternatives without plexiglass.
 
 Vagabond box for 9 meeples and for 2 meeples.
+
+Monuments box for first Landmarks wave.
 
 Hirelings inserts for the Hireling box, maybe, one day...
 
