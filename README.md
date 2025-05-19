@@ -149,7 +149,7 @@ Alternative printing with color inversion:
 
 Just another angle for the temporary storage:
 <p align="center">
- <img src="Extra/Presentation/full_box_in_the_bed.jpg" alt="Temporary Storage in bed" width="400" />
+ <img src="Extra/Presentation/full_box_in_the_bed.jpg" alt="Temporary Storage in bed" width="600" />
 </p>
 
 
