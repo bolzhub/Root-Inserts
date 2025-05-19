@@ -95,9 +95,10 @@ Examples of temporary storage solution for the French Marauder box:
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french3.jpg" alt="Box disposition 3" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french4.jpg" alt="Box disposition 4" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french5.jpg" alt="Box disposition 5" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 8" width="450" />
+ <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french9.jpg" alt="Box disposition 8" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french7.jpg" alt="Box disposition 7" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french6.jpg" alt="Box disposition 6" width="450" />
- <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french8.jpg" alt="Box disposition 8" width="450" />
  <img src="Extra/Presentation/Box_disposition/Small_French_Box/temp_small_french1.jpg" alt="Box disposition 1" width="450" />
 </p>
 
@@ -144,6 +145,11 @@ Alternative printing with color inversion:
 <p align="center">
  <img src="Extra/Presentation/color_inversion_column.jpg" alt="Boxes with color inversion in a column" width="400" />
  <img src="Extra/Presentation/color_inversion_line.jpg" alt="Boxes with color inversion in a line" width="500" />
+</p>
+
+Just another angle for the temporary storage:
+<p align="center">
+ <img src="Extra/Presentation/full_box_in_the_bed.jpg" alt="Temporary Storage in bed" width="400" />
 </p>
 
 
