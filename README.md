@@ -120,7 +120,7 @@ Made using Blender, Krita, Inscape, Bambu Studio, DaVinci Resolve, and the free 
 
 ## Future Improvements
 
-Box for resin clearing markers.
+Box for resin clearing markers and other map components.
 
 Container alternatives without plexiglass.
 
