@@ -24,6 +24,7 @@ as well as
 - Setup pieces
 - Monuments 1 - UPLOAD SOON
 - Monuments 2 - UPLOAD IN AUTUMN
+- Maps components - UPLOAD IN AUTUMN
 
 but not
 - The Hirelings
