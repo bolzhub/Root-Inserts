@@ -1,18 +1,25 @@
 .DS_Store
 
-Models/Containers_pre_fix/
-Models/Drawers_pre_fix/
-Models/Holders_pre_fix/
-Models/Extra/
+Models/French/Containers_pre_fix/
+Models/French/Drawers_pre_fix/
+Models/French/Holders_pre_fix/
+Models/French/Extra/
+Models/English/Containers_pre_fix/
+Models/English/Drawers_pre_fix/
+Models/English/Drawers_not_fixed_enough/
+Models/English/Holders_pre_fix/
+Models/English/Extra/
 
 Extra/Miscellaneous/
 Extra/Presentation/Videos/
 Extra/Making_of/Reference/
-Extra/Making_of/Models/Containers/all_faction_containers.blend
-Extra/Making_of/Models/Containers/Inspirations/
-Extra/Making_of/Models/Containers/Sides_designs/
-Extra/Making_of/Models/Drawers/drawers-Setup.blend
-Extra/Making_of/Models/Drawers/Manual_Disposition/
+Extra/Making_of/Models/French/Containers/all_faction_containers.blend
+Extra/Making_of/Models/French/Containers/Inspirations/
+Extra/Making_of/Models/French/Containers/Sides_designs/
+Extra/Making_of/Models/French/Drawers/drawers-Setup.blend
+Extra/Making_of/Models/French/Drawers/Manual_Disposition/
+Extra/Making_of/Models/French/Extra/
+Extra/Making_of/Models/English/Containers/all_faction_containers.blend
 Extra/Making_of/Models/Extra/
 Extra/Making_of/Presentation/presentation1.blend
 Extra/Making_of/Presentation/presentation2.blend
