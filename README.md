@@ -55,7 +55,7 @@ Can be used with any version of the board game: English, French, etc. Boxes' pos
 
 Examples of 3D models:
  
-![Example of container](Models/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/Drawers/drawer-Lord_of_the_Hundreds.stl)
+![Example of container](Models/French/Containers/container-Lord_of_the_Hundreds.stl) - ![Example of drawer](Models/French/Drawers/drawer-Lord_of_the_Hundreds.stl)
 
  ## How to download
 
