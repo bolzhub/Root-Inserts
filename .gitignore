@@ -1,9 +1,11 @@
 .DS_Store
 
+
 Models/French/Containers_pre_fix/
 Models/French/Drawers_pre_fix/
 Models/French/Holders_pre_fix/
 Models/French/Extra/
+
 Models/English/Containers_pre_fix/
 Models/English/Containers_not_fixed_enough/
 Models/English/Drawers_pre_fix/
@@ -11,25 +13,26 @@ Models/English/Drawers_not_fixed_enough/
 Models/English/Holders_pre_fix/
 Models/English/Extra/
 
+
 Extra/Miscellaneous/
+
 Extra/Presentation/Newsletter/
 Extra/Presentation/To_Leder_Games/
 Extra/Presentation/Videos/
-Extra/Making_of/Reference/
-Extra/Making_of/Models/French/Containers/all_faction_containers.blend
-Extra/Making_of/Models/French/Containers/Inspirations/
-Extra/Making_of/Models/French/Containers/Sides_designs/
-Extra/Making_of/Models/French/Drawers/drawers-Setup.blend
-Extra/Making_of/Models/French/Drawers/Manual_Disposition/
-Extra/Making_of/Models/French/Extra/
-Extra/Making_of/Models/English/Containers/all_faction_containers.blend
-Extra/Making_of/Models/English/Extra/
-Extra/Making_of/Presentation/presentation1.blend
-Extra/Making_of/Presentation/presentation2.blend
-Extra/Making_of/Presentation/Gallery/
-Extra/Making_of/Presentation/Videos/
 
 Extra/Old_Version/Blend/
 Extra/Old_Version/Gcode/
 Extra/Old_Version/Stl/Miscellaneous/
 Extra/Old_Version/Xcf/
+
+Extra/Making_of/Conception/
+Extra/Making_of/Design/
+Extra/Making_of/Reference/
+Extra/Making_of/Modelling/French/Containers/all_faction_containers.blend
+Extra/Making_of/Modelling/French/Extra/
+Extra/Making_of/Modelling/English/Containers/all_faction_containers.blend
+Extra/Making_of/Modelling/English/Extra/
+Extra/Making_of/Presentation/presentation1.blend
+Extra/Making_of/Presentation/presentation2.blend
+Extra/Making_of/Presentation/Gallery/
+Extra/Making_of/Presentation/Videos/
