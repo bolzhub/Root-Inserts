@@ -1,17 +1,7 @@
 .DS_Store
 
 
-Models/French/Containers_pre_fix/
-Models/French/Drawers_pre_fix/
-Models/French/Holders_pre_fix/
 Models/French/Extra/
-
-Models/English/Containers_pre_fix/
-Models/English/Containers_not_fixed_enough/
-Models/English/Drawers_pre_fix/
-Models/English/Drawers_not_fixed_enough/
-Models/English/Drawers_previous_holes_sizes/
-Models/English/Holders_pre_fix/
 Models/English/Extra/
 
 
@@ -34,7 +24,6 @@ Extra/Making_of/Reference/
 Extra/Making_of/Modelling/French/Containers/all_faction_containers-French.blend
 Extra/Making_of/Modelling/French/Extra/
 Extra/Making_of/Modelling/English/Containers/all_faction_containers-English.blend
-Extra/Making_of/Modelling/English/Drawers_pre_holes_expansion/
 Extra/Making_of/Modelling/English/Extra/
 Extra/Making_of/Presentation/presentation1.blend
 Extra/Making_of/Presentation/presentation2.blend
