@@ -25,8 +25,6 @@ as well as
 - Monuments 1
 - Monuments 2 - UPLOAD WITH HOMELAND RELEASE
 - Maps components - UPLOAD WITH HOMELAND RELEASE
-
-but not
 - The Hirelings
 
 The inserts are drawers which slide in the containers. A container with its drawer form a "box". All faction components, including cards, fit in their respective boxes.  
