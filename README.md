@@ -154,7 +154,7 @@ Just another angle for the temporary storage:
 
 ## Acknoledgements
 
-Thanks to Paul, Tanguy, Suzanne and my family for their help and support
+Thanks to Paul, Tanguy, Suzanne, Adrien and my family for their help and support
 
 ## LICENSE
 
