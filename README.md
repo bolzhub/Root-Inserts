@@ -8,23 +8,23 @@ Stl files of individual custom-made inserts and containers for the base and expa
 - Marquise de Cat
 - Eyrie Dynasties
 - Woodland Alliance
-- Vagabond - UPLOAD OF THE MEEPLE DRAWER IN AUTUMN
+- Vagabond - UPLOAD WITH HOMELAND RELEASE
 - Lizard Cult
 - Riverfolk Company
 - Underground Duchy
 - Corvid Conspiracy
 - Lord of the Hundreds
 - Keepers in Iron
-- Twilight Council - UPLOAD IN AUTUMN
-- Lilypad Diaspora - UPLOAD IN AUTUMN
-- Knaves of the Deepwood - UPLOAD IN AUTUMN
+- Twilight Council - UPLOAD WITH HOMELAND RELEASE
+- Lilypad Diaspora - UPLOAD WITH HOMELAND RELEASE
+- Knaves of the Deepwood - UPLOAD WITH HOMELAND RELEASE
 
 as well as
 - The three decks
 - Setup pieces
-- Monuments 1 - UPLOAD SOON
-- Monuments 2 - UPLOAD IN AUTUMN
-- Maps components - UPLOAD IN AUTUMN
+- Monuments 1
+- Monuments 2 - UPLOAD WITH HOMELAND RELEASE
+- Maps components - UPLOAD WITH HOMELAND RELEASE
 
 but not
 - The Hirelings
