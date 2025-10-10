@@ -2,7 +2,11 @@
 
 
 Models/French/Extra/
+Models/French/Drawers_pre_fix/
+Models/French/Drawers_fixed/
 Models/English/Extra/
+Models/English/Drawers_pre_fix/
+Models/English/Drawers_fixed/
 
 
 Extra/Miscellaneous/
@@ -12,6 +16,7 @@ Extra/Printing/Bambu_Setups/
 Extra/Presentation/Newsletter/
 Extra/Presentation/To_Leder_Games/
 Extra/Presentation/Videos/
+Extra/Presentation/Vrac/
 
 Extra/Old_Version/Blend/
 Extra/Old_Version/Gcode/
